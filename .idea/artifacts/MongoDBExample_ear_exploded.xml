@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="MongoDBExample:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MongoDBExample_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MongoDBExample/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
